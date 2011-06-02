@@ -1,0 +1,13 @@
+//
+// Prefix header for all source files of the 'Overlay' target in the 'Overlay' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+
+	#define OVERLAY_DEFAULTSKEY_WINDOWS @"DefaultWindows"
+	#define OVERLAY_NOTIFICATION_KEY_WILLCLOSE @"OverlayWindowWillClose"
+	#define OVERLAY_NOTIFICATION_KEY_ALWAYSONTOPCHANGED @"OverlayWindowAlwaysOnTopChanged"
+	#define OVERLAY_NOTIFICATION_KEY_ALPHASLIDERVISIBLECHANGED @"OverlayWindowAlphaSliderVisibleChanged"
+    #define OVERLAY_NOTIFICATION_KEY_DEFAULTSCHANGED @"OverlayWindowDefaultsChanged"
+#endif

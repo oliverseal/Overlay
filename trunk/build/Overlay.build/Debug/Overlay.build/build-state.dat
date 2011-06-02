@@ -1,0 +1,335 @@
+TOverlay
+v7
+r0
+t328718912.216461
+cCheck dependencies
+cProcessInfoPlistFile /Users/oliver/Projects/Overlay/build/Debug/Overlay.app/Contents/Info.plist Overlay-Info.plist
+cCopyStringsFile /Users/oliver/Projects/Overlay/build/Debug/Overlay.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/oliver/Projects/Overlay/English.lproj/MainMenu.xib
+cCpResource build/Debug/Overlay.app/Contents/Resources/screen.icns screen.icns
+cProcessPCH /var/folders/BS/BS3esUzQHmiQyppz6f2uM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Overlay_Prefix-gujaqxwibpsjkidjaamsrhlovwpj/Overlay_Prefix.pch.gch Overlay_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Overlay.build/Debug/Overlay.build/Objects-normal/x86_64/main.o /Users/oliver/Projects/Overlay/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Overlay.build/Debug/Overlay.build/Objects-normal/x86_64/OverlayAppDelegate.o /Users/oliver/Projects/Overlay/OverlayAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Overlay.build/Debug/Overlay.build/Objects-normal/x86_64/OverlayWindow.o /Users/oliver/Projects/Overlay/OverlayWindow.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Overlay.build/Debug/Overlay.build/Objects-normal/x86_64/OverlayWindowDefaults.o /Users/oliver/Projects/Overlay/OverlayWindowDefaults.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Overlay.build/Debug/Overlay.build/Objects-normal/x86_64/OverlayWindowContextMenu.o /Users/oliver/Projects/Overlay/OverlayWindowContextMenu.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/oliver/Projects/Overlay/build/Debug/Overlay.app/Contents/MacOS/Overlay normal x86_64
+cTouch /Users/oliver/Projects/Overlay/build/Debug/Overlay.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h
+c000000004C23BD2900000000000017ED
+t1277410601
+s6125
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/oliver/Projects/Overlay/English.lproj/InfoPlist.strings
+c000000004DE66838000000000000002D
+t1306945592
+s45
+
+N/Users/oliver/Projects/Overlay/English.lproj/MainMenu.xib
+c000000004DE6B713000000000000E07E
+t1306965779
+s57470
+
+N/Users/oliver/Projects/Overlay/OverlayAppDelegate.h
+c000000004DE79A610000000000000319
+t1307023969
+s793
+i<Cocoa/Cocoa.h>
+i"OverlayWindow.h"
+
+N/Users/oliver/Projects/Overlay/OverlayAppDelegate.m
+c000000004DE7A04200000000000011A2
+t1307025474
+s4514
+i"OverlayAppDelegate.h"
+i"OverlayWindowDefaults.h"
+i"OverlayWindow.h"
+
+N/Users/oliver/Projects/Overlay/OverlayWindow.h
+c000000004DE7983700000000000003F2
+t1307023415
+s1010
+i<Cocoa/Cocoa.h>
+i"OverlayWindowDefaults.h"
+
+N/Users/oliver/Projects/Overlay/OverlayWindow.m
+c000000004DE7A00000000000000017DA
+t1307025408
+s6106
+i"OverlayWindow.h"
+i<AppKit/AppKit.h>
+i"OverlayWindowContextMenu.h"
+
+N/Users/oliver/Projects/Overlay/OverlayWindowContextMenu.h
+c000000004DE7457500000000000002A7
+t1307002229
+s679
+i<Cocoa/Cocoa.h>
+i"OverlayWindow.h"
+
+N/Users/oliver/Projects/Overlay/OverlayWindowContextMenu.m
+c000000004DE793B700000000000007E8
+t1307022263
+s2024
+i"OverlayWindowContextMenu.h"
+i"OverlayWindow.h"
+
+N/Users/oliver/Projects/Overlay/OverlayWindowDefaults.h
+c000000004DE79F540000000000000227
+t1307025236
+s551
+i<Cocoa/Cocoa.h>
+
+N/Users/oliver/Projects/Overlay/OverlayWindowDefaults.m
+c000000004DE79FE60000000000000560
+t1307025382
+s1376
+i"OverlayWindowDefaults.h"
+
+N/Users/oliver/Projects/Overlay/Overlay_Prefix.pch
+c000000004DE73FAF0000000000000222
+t1307000751
+s546
+i<Cocoa/Cocoa.h>
+
+N/Users/oliver/Projects/Overlay/build/Debug/Overlay.app
+t1307026112
+s102
+
+N/Users/oliver/Projects/Overlay/build/Debug/Overlay.app/Contents/Info.plist
+t1307026046
+s939
+
+N/Users/oliver/Projects/Overlay/build/Debug/Overlay.app/Contents/MacOS/Overlay
+t1307026057
+s50432
+
+N/Users/oliver/Projects/Overlay/build/Debug/Overlay.app/Contents/PkgInfo
+t1307026046
+s8
+
+N/Users/oliver/Projects/Overlay/build/Debug/Overlay.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1306956619
+s92
+
+N/Users/oliver/Projects/Overlay/build/Debug/Overlay.app/Contents/Resources/English.lproj/MainMenu.nib
+t1306965882
+s8083
+
+N/Users/oliver/Projects/Overlay/build/Debug/Overlay.app/Contents/Resources/screen.icns
+t1307026112
+s25012
+
+N/Users/oliver/Projects/Overlay/build/Overlay.build/Debug/Overlay.build/Objects-normal/x86_64/Overlay.LinkFileList
+c000000004DE6B77A0000000000000230
+t1306965882
+s560
+
+N/Users/oliver/Projects/Overlay/build/Overlay.build/Debug/Overlay.build/Objects-normal/x86_64/OverlayAppDelegate.o
+t1307026057
+s45968
+
+N/Users/oliver/Projects/Overlay/build/Overlay.build/Debug/Overlay.build/Objects-normal/x86_64/OverlayWindow.o
+t1307026057
+s46016
+
+N/Users/oliver/Projects/Overlay/build/Overlay.build/Debug/Overlay.build/Objects-normal/x86_64/OverlayWindowContextMenu.o
+t1307026057
+s28740
+
+N/Users/oliver/Projects/Overlay/build/Overlay.build/Debug/Overlay.build/Objects-normal/x86_64/OverlayWindowDefaults.o
+t1307026057
+s18696
+
+N/Users/oliver/Projects/Overlay/build/Overlay.build/Debug/Overlay.build/Objects-normal/x86_64/main.o
+t1307026057
+s4976
+
+N/Users/oliver/Projects/Overlay/main.m
+c000000004DE668380000000000000100
+t1306945592
+s256
+i<Cocoa/Cocoa.h>
+
+N/Users/oliver/Projects/Overlay/screen.icns
+c000000004DE7A1F500000000000061B4
+t1307025909
+s25012
+
+N/var/folders/BS/BS3esUzQHmiQyppz6f2uM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Overlay_Prefix-ffkqgtgdlwgkxufvoxdjfnskufjp/Overlay_Prefix.pch.gch
+t1307000843
+s54306576
+
+N/var/folders/BS/BS3esUzQHmiQyppz6f2uM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Overlay_Prefix-gujaqxwibpsjkidjaamsrhlovwpj/Overlay_Prefix.pch.gch
+t1307026056
+s54306576
+
+NOverlay-Info.plist
+c000000004DE7A27A00000000000003EF
+t1307026042
+s1007
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies328718912#328718912#0(0"0(0#1#0"8630193184#0"0#
+
+CCompileC build/Overlay.build/Debug/Overlay.build/Objects-normal/x86_64/OverlayAppDelegate.o /Users/oliver/Projects/Overlay/OverlayAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s328718856.656062
+e328718857.198329
+r1
+xCompileC
+xbuild/Overlay.build/Debug/Overlay.build/Objects-normal/x86_64/OverlayAppDelegate.o
+x/Users/oliver/Projects/Overlay/OverlayAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/oliver/Projects/Overlay/OverlayAppDelegate.m328718856#328718857#0(0"0(0#0#51"/Users/oliver/Projects/Overlay/OverlayAppDelegate.m8622850496#1390"    cd /Users/oliver/Projects/Overlay    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/oliver/Projects/Overlay/build/Overlay.build/Debug/Overlay.build/Overlay-generated-files.hmap -I/Users/oliver/Projects/Overlay/build/Overlay.build/Debug/Overlay.build/Overlay-own-target-headers.hmap -I/Users/oliver/Projects/Overlay/build/Overlay.build/Debug/Overlay.build/Overlay-all-target-headers.hmap -iquote /Users/oliver/Projects/Overlay/build/Overlay.build/Debug/Overlay.build/Overlay-project-headers.hmap -F/Users/oliver/Projects/Overlay/build/Debug -I/Users/oliver/Projects/Overlay/build/Debug/include -I/Users/oliver/Projects/Overlay/build/Overlay.build/Debug/Overlay.build/DerivedSources/x86_64 -I/Users/oliver/Projects/Overlay/build/Overlay.build/Debug/Overlay.build/DerivedSources -include /var/folders/BS/BS3esUzQHmiQyppz6f2uM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Overlay_Prefix-gujaqxwibpsjkidjaamsrhlovwpj/Overlay_Prefix.pch -c /Users/oliver/Projects/Overlay/OverlayAppDelegate.m -o /Users/oliver/Projects/Overlay/build/Overlay.build/Debug/Overlay.build/Objects-normal/x86_64/OverlayAppDelegate.o0#
+
+CCompileC build/Overlay.build/Debug/Overlay.build/Objects-normal/x86_64/OverlayWindow.o /Users/oliver/Projects/Overlay/OverlayWindow.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s328718857.107791
+e328718857.438756
+r1
+xCompileC
+xbuild/Overlay.build/Debug/Overlay.build/Objects-normal/x86_64/OverlayWindow.o
+x/Users/oliver/Projects/Overlay/OverlayWindow.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/oliver/Projects/Overlay/OverlayWindow.m328718857#328718857#0(0"0(0#0#46"/Users/oliver/Projects/Overlay/OverlayWindow.m8624286240#1380"    cd /Users/oliver/Projects/Overlay    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/oliver/Projects/Overlay/build/Overlay.build/Debug/Overlay.build/Overlay-generated-files.hmap -I/Users/oliver/Projects/Overlay/build/Overlay.build/Debug/Overlay.build/Overlay-own-target-headers.hmap -I/Users/oliver/Projects/Overlay/build/Overlay.build/Debug/Overlay.build/Overlay-all-target-headers.hmap -iquote /Users/oliver/Projects/Overlay/build/Overlay.build/Debug/Overlay.build/Overlay-project-headers.hmap -F/Users/oliver/Projects/Overlay/build/Debug -I/Users/oliver/Projects/Overlay/build/Debug/include -I/Users/oliver/Projects/Overlay/build/Overlay.build/Debug/Overlay.build/DerivedSources/x86_64 -I/Users/oliver/Projects/Overlay/build/Overlay.build/Debug/Overlay.build/DerivedSources -include /var/folders/BS/BS3esUzQHmiQyppz6f2uM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Overlay_Prefix-gujaqxwibpsjkidjaamsrhlovwpj/Overlay_Prefix.pch -c /Users/oliver/Projects/Overlay/OverlayWindow.m -o /Users/oliver/Projects/Overlay/build/Overlay.build/Debug/Overlay.build/Objects-normal/x86_64/OverlayWindow.o0#
+
+CCompileC build/Overlay.build/Debug/Overlay.build/Objects-normal/x86_64/OverlayWindowContextMenu.o /Users/oliver/Projects/Overlay/OverlayWindowContextMenu.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s328718857.417852
+e328718857.579951
+r1
+xCompileC
+xbuild/Overlay.build/Debug/Overlay.build/Objects-normal/x86_64/OverlayWindowContextMenu.o
+x/Users/oliver/Projects/Overlay/OverlayWindowContextMenu.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/oliver/Projects/Overlay/OverlayWindowContextMenu.m328718857#328718857#0(0"0(0#0#57"/Users/oliver/Projects/Overlay/OverlayWindowContextMenu.m8625867680#1402"    cd /Users/oliver/Projects/Overlay    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/oliver/Projects/Overlay/build/Overlay.build/Debug/Overlay.build/Overlay-generated-files.hmap -I/Users/oliver/Projects/Overlay/build/Overlay.build/Debug/Overlay.build/Overlay-own-target-headers.hmap -I/Users/oliver/Projects/Overlay/build/Overlay.build/Debug/Overlay.build/Overlay-all-target-headers.hmap -iquote /Users/oliver/Projects/Overlay/build/Overlay.build/Debug/Overlay.build/Overlay-project-headers.hmap -F/Users/oliver/Projects/Overlay/build/Debug -I/Users/oliver/Projects/Overlay/build/Debug/include -I/Users/oliver/Projects/Overlay/build/Overlay.build/Debug/Overlay.build/DerivedSources/x86_64 -I/Users/oliver/Projects/Overlay/build/Overlay.build/Debug/Overlay.build/DerivedSources -include /var/folders/BS/BS3esUzQHmiQyppz6f2uM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Overlay_Prefix-gujaqxwibpsjkidjaamsrhlovwpj/Overlay_Prefix.pch -c /Users/oliver/Projects/Overlay/OverlayWindowContextMenu.m -o /Users/oliver/Projects/Overlay/build/Overlay.build/Debug/Overlay.build/Objects-normal/x86_64/OverlayWindowContextMenu.o0#
+
+CCompileC build/Overlay.build/Debug/Overlay.build/Objects-normal/x86_64/OverlayWindowDefaults.o /Users/oliver/Projects/Overlay/OverlayWindowDefaults.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s328718857.198552
+e328718857.417762
+r1
+xCompileC
+xbuild/Overlay.build/Debug/Overlay.build/Objects-normal/x86_64/OverlayWindowDefaults.o
+x/Users/oliver/Projects/Overlay/OverlayWindowDefaults.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/oliver/Projects/Overlay/OverlayWindowDefaults.m328718857#328718857#0(0"0(0#0#54"/Users/oliver/Projects/Overlay/OverlayWindowDefaults.m8617427808#1396"    cd /Users/oliver/Projects/Overlay    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/oliver/Projects/Overlay/build/Overlay.build/Debug/Overlay.build/Overlay-generated-files.hmap -I/Users/oliver/Projects/Overlay/build/Overlay.build/Debug/Overlay.build/Overlay-own-target-headers.hmap -I/Users/oliver/Projects/Overlay/build/Overlay.build/Debug/Overlay.build/Overlay-all-target-headers.hmap -iquote /Users/oliver/Projects/Overlay/build/Overlay.build/Debug/Overlay.build/Overlay-project-headers.hmap -F/Users/oliver/Projects/Overlay/build/Debug -I/Users/oliver/Projects/Overlay/build/Debug/include -I/Users/oliver/Projects/Overlay/build/Overlay.build/Debug/Overlay.build/DerivedSources/x86_64 -I/Users/oliver/Projects/Overlay/build/Overlay.build/Debug/Overlay.build/DerivedSources -include /var/folders/BS/BS3esUzQHmiQyppz6f2uM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Overlay_Prefix-gujaqxwibpsjkidjaamsrhlovwpj/Overlay_Prefix.pch -c /Users/oliver/Projects/Overlay/OverlayWindowDefaults.m -o /Users/oliver/Projects/Overlay/build/Overlay.build/Debug/Overlay.build/Objects-normal/x86_64/OverlayWindowDefaults.o0#
+
+CCompileC build/Overlay.build/Debug/Overlay.build/Objects-normal/x86_64/main.o /Users/oliver/Projects/Overlay/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s328718856.609315
+e328718857.107691
+r1
+xCompileC
+xbuild/Overlay.build/Debug/Overlay.build/Objects-normal/x86_64/main.o
+x/Users/oliver/Projects/Overlay/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@45"Compile /Users/oliver/Projects/Overlay/main.m328718856#328718857#0(0"0(0#0#37"/Users/oliver/Projects/Overlay/main.m8618952768#1362"    cd /Users/oliver/Projects/Overlay    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/oliver/Projects/Overlay/build/Overlay.build/Debug/Overlay.build/Overlay-generated-files.hmap -I/Users/oliver/Projects/Overlay/build/Overlay.build/Debug/Overlay.build/Overlay-own-target-headers.hmap -I/Users/oliver/Projects/Overlay/build/Overlay.build/Debug/Overlay.build/Overlay-all-target-headers.hmap -iquote /Users/oliver/Projects/Overlay/build/Overlay.build/Debug/Overlay.build/Overlay-project-headers.hmap -F/Users/oliver/Projects/Overlay/build/Debug -I/Users/oliver/Projects/Overlay/build/Debug/include -I/Users/oliver/Projects/Overlay/build/Overlay.build/Debug/Overlay.build/DerivedSources/x86_64 -I/Users/oliver/Projects/Overlay/build/Overlay.build/Debug/Overlay.build/DerivedSources -include /var/folders/BS/BS3esUzQHmiQyppz6f2uM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Overlay_Prefix-gujaqxwibpsjkidjaamsrhlovwpj/Overlay_Prefix.pch -c /Users/oliver/Projects/Overlay/main.m -o /Users/oliver/Projects/Overlay/build/Overlay.build/Debug/Overlay.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/oliver/Projects/Overlay/English.lproj/MainMenu.xib
+s328658682.528472
+e328658682.700159
+r1
+xCompileXIB
+x/Users/oliver/Projects/Overlay/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib328658682#328658682#0(0"0(0#0#57"/Users/oliver/Projects/Overlay/English.lproj/MainMenu.xib8633105216#340"    cd /Users/oliver/Projects/Overlay    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/oliver/Projects/Overlay/build/Debug/Overlay.app/Contents/Resources/English.lproj/MainMenu.nib /Users/oliver/Projects/Overlay/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile /Users/oliver/Projects/Overlay/build/Debug/Overlay.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s328649416.450059
+e328649419.702847
+r1
+xCopyStringsFile
+x/Users/oliver/Projects/Overlay/build/Debug/Overlay.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings328649416#328649419#0(0"0(0#0#62"/Users/oliver/Projects/Overlay/English.lproj/InfoPlist.strings8611172416#349"    cd /Users/oliver/Projects/Overlay    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/oliver/Projects/Overlay/build/Debug/Overlay.app/Contents/Resources/English.lproj0#
+
+CCpResource build/Debug/Overlay.app/Contents/Resources/screen.icns screen.icns
+s328718912.146961
+e328718912.213802
+r1
+xCpResource
+xbuild/Debug/Overlay.app/Contents/Resources/screen.icns
+xscreen.icns
+lSLF07#2@16"Copy screen.icns328718912#328718912#0(0"0(0#0#42"/Users/oliver/Projects/Overlay/screen.icns8621264640#317"    cd /Users/oliver/Projects/Overlay    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/oliver/Projects/Overlay/screen.icns /Users/oliver/Projects/Overlay/build/Debug/Overlay.app/Contents/Resources0#
+
+CLd /Users/oliver/Projects/Overlay/build/Debug/Overlay.app/Contents/MacOS/Overlay normal x86_64
+s328718857.580044
+e328718857.676951
+r1
+xLd
+x/Users/oliver/Projects/Overlay/build/Debug/Overlay.app/Contents/MacOS/Overlay
+xnormal
+xx86_64
+lSLF07#2@82"Link /Users/oliver/Projects/Overlay/build/Debug/Overlay.app/Contents/MacOS/Overlay328718857#328718857#0(0"0(0#0#0"8636957984#502"    cd /Users/oliver/Projects/Overlay    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/oliver/Projects/Overlay/build/Debug -F/Users/oliver/Projects/Overlay/build/Debug -filelist /Users/oliver/Projects/Overlay/build/Overlay.build/Debug/Overlay.build/Objects-normal/x86_64/Overlay.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/oliver/Projects/Overlay/build/Debug/Overlay.app/Contents/MacOS/Overlay0#
+
+CProcessInfoPlistFile /Users/oliver/Projects/Overlay/build/Debug/Overlay.app/Contents/Info.plist Overlay-Info.plist
+s328718846.211303
+e328718846.230952
+r1
+xProcessInfoPlistFile
+x/Users/oliver/Projects/Overlay/build/Debug/Overlay.app/Contents/Info.plist
+xOverlay-Info.plist
+lSLF07#2@26"Process Overlay-Info.plist328718846#328718846#0(0"0(0#0#49"/Users/oliver/Projects/Overlay/Overlay-Info.plist8617554592#286"    cd /Users/oliver/Projects/Overlay    builtin-infoPlistUtility Overlay-Info.plist -genpkginfo /Users/oliver/Projects/Overlay/build/Debug/Overlay.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/oliver/Projects/Overlay/build/Debug/Overlay.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/BS/BS3esUzQHmiQyppz6f2uM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Overlay_Prefix-ffkqgtgdlwgkxufvoxdjfnskufjp/Overlay_Prefix.pch.gch Overlay_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s328693639.829822
+e328693643.224728
+r1
+xProcessPCH
+x/var/folders/BS/BS3esUzQHmiQyppz6f2uM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Overlay_Prefix-ffkqgtgdlwgkxufvoxdjfnskufjp/Overlay_Prefix.pch.gch
+xOverlay_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile Overlay_Prefix.pch328693639#328693643#0(0"0(0#0#49"/Users/oliver/Projects/Overlay/Overlay_Prefix.pch8637275904#1276"    cd /Users/oliver/Projects/Overlay    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/oliver/Projects/Overlay/build/Overlay.build/Debug/Overlay.build/Overlay-generated-files.hmap -I/Users/oliver/Projects/Overlay/build/Overlay.build/Debug/Overlay.build/Overlay-own-target-headers.hmap -I/Users/oliver/Projects/Overlay/build/Overlay.build/Debug/Overlay.build/Overlay-all-target-headers.hmap -iquote /Users/oliver/Projects/Overlay/build/Overlay.build/Debug/Overlay.build/Overlay-project-headers.hmap -F/Users/oliver/Projects/Overlay/build/Debug -I/Users/oliver/Projects/Overlay/build/Debug/include -I/Users/oliver/Projects/Overlay/build/Overlay.build/Debug/Overlay.build/DerivedSources/x86_64 -I/Users/oliver/Projects/Overlay/build/Overlay.build/Debug/Overlay.build/DerivedSources -c /Users/oliver/Projects/Overlay/Overlay_Prefix.pch -o /var/folders/BS/BS3esUzQHmiQyppz6f2uM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Overlay_Prefix-ffkqgtgdlwgkxufvoxdjfnskufjp/Overlay_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/BS/BS3esUzQHmiQyppz6f2uM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Overlay_Prefix-gujaqxwibpsjkidjaamsrhlovwpj/Overlay_Prefix.pch.gch Overlay_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s328718846.231156
+e328718856.609056
+r1
+xProcessPCH
+x/var/folders/BS/BS3esUzQHmiQyppz6f2uM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Overlay_Prefix-gujaqxwibpsjkidjaamsrhlovwpj/Overlay_Prefix.pch.gch
+xOverlay_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile Overlay_Prefix.pch328718846#328718856#0(0"0(0#0#49"/Users/oliver/Projects/Overlay/Overlay_Prefix.pch8637378720#1276"    cd /Users/oliver/Projects/Overlay    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/oliver/Projects/Overlay/build/Overlay.build/Debug/Overlay.build/Overlay-generated-files.hmap -I/Users/oliver/Projects/Overlay/build/Overlay.build/Debug/Overlay.build/Overlay-own-target-headers.hmap -I/Users/oliver/Projects/Overlay/build/Overlay.build/Debug/Overlay.build/Overlay-all-target-headers.hmap -iquote /Users/oliver/Projects/Overlay/build/Overlay.build/Debug/Overlay.build/Overlay-project-headers.hmap -F/Users/oliver/Projects/Overlay/build/Debug -I/Users/oliver/Projects/Overlay/build/Debug/include -I/Users/oliver/Projects/Overlay/build/Overlay.build/Debug/Overlay.build/DerivedSources/x86_64 -I/Users/oliver/Projects/Overlay/build/Overlay.build/Debug/Overlay.build/DerivedSources -c /Users/oliver/Projects/Overlay/Overlay_Prefix.pch -o /var/folders/BS/BS3esUzQHmiQyppz6f2uM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Overlay_Prefix-gujaqxwibpsjkidjaamsrhlovwpj/Overlay_Prefix.pch.gch0#
+
+CTouch /Users/oliver/Projects/Overlay/build/Debug/Overlay.app
+s328718912.214378
+e328718912.216439
+r1
+xTouch
+x/Users/oliver/Projects/Overlay/build/Debug/Overlay.app
+lSLF07#2@60"Touch /Users/oliver/Projects/Overlay/build/Debug/Overlay.app328718912#328718912#0(0"0(0#0#0"8615985344#115"    cd /Users/oliver/Projects/Overlay    /usr/bin/touch -c /Users/oliver/Projects/Overlay/build/Debug/Overlay.app0#
+
